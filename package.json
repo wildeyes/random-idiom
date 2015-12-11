@@ -1,0 +1,27 @@
+{
+  "name": "random-idiom",
+  "version": "1.0.0",
+  "description": "Output a random english idiom.",
+  "main": "index.js",
+  "bin": {
+    "random-idiom": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildeyes/random-idiom.git"
+  },
+  "keywords": [
+    "idiom",
+    "random",
+    "english"
+  ],
+  "author": "xwildeyes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wildeyes/random-idiom/issues"
+  },
+  "homepage": "https://github.com/wildeyes/random-idiom#readme"
+}
